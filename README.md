@@ -1,2 +1,2 @@
-# First-HTML-only-site
-This the a Only HTML "About Me" Site
+# HTML only 'About me' site
+A Introductory website made only using HTML
